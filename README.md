@@ -5,7 +5,7 @@ The goal is to build strong **Infrastructure as Code (IaC)** foundations while p
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 Terraform Labs/
 │
@@ -28,7 +28,7 @@ Terraform Labs/
 
 ---
 
-## 🧪 Labs Overview
+## Labs Overview
 
 ### Lab1 — Intro to Terraform
 - Practiced variables, outputs, validation rules, and version constraints.
