@@ -63,9 +63,3 @@ The goal is to build strong **Infrastructure as Code (IaC)** foundations while p
 - Observed dynamic configuration changes.
 
 ---
-
-## 🛠️ How to Run
-
-Initialize Terraform:
-```bash
-terraform init
