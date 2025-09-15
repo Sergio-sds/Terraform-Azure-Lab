@@ -52,8 +52,8 @@ The goal is to build strong **Infrastructure as Code (IaC)** foundations while p
 - Created and managed secrets in Azure Key Vault.
 - Implemented logging and diagnostics.
 
-### Lab5 — Azure VM + Networking
-- Provisioned virtual machines and configured network settings.
+### Lab5 — Networking
+- Configured network settings.
 - Practiced security groups and connectivity.
 
 ### Lab6 — Azure VM
