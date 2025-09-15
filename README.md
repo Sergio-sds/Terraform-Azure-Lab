@@ -7,7 +7,7 @@ The goal is to build strong **Infrastructure as Code (IaC)** foundations while p
 
 ## 📂 Repository Structure
 
-- **Terraform Labs/Lab1-Intro/** – Terraform fundamentals  
+- **terraform/Lab1-Intro/** – Terraform fundamentals  
   - `main.tf` → Core configuration  
   - `variables.tf` → Input variables  
   - `outputs.tf` → Output values  
